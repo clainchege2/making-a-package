@@ -2,4 +2,4 @@
 This repository is for learning purposes. 
 
 
-Created a Gaussian and Binomial package.
+Created a Gaussian and Binomial python package.
